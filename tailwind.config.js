@@ -4,14 +4,14 @@ export default {
   theme: {
     extend: {
       colors: {
-        // Ваши основные цвета
+        // 
         'black': '#000000',
         'white': '#ffffff',
-        'dark-gray': '#1a1a1a', // Для мягкого фона или карточек
+        'dark-gray': '#1a1a1a', // 
         'light-gray': '#e5e5e5',
       },
       letterSpacing: {
-        'ultra-tight': '-0.05em', // Для стильных ч/б заголовков
+        'ultra-tight': '-0.05em', // 
       }
     },
   },
